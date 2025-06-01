@@ -1,6 +1,6 @@
 # Master-Thesis
 
-This repository presents the code used for the masters thesis project, "Investigating correlations between the Western diet pattern, ADHD symptoms, and the gut microbiome composition in 10-year-old Danish children (COPSAC2010)." This thesis was carried out from November 2024 to June 2025 for the completion of the MSc Human Nutrition at the University of Copenhagen. It is a data exploration study investigating correlations between ADHD, diet patterns, and the gut microbiome composition in 10-year-old Danish children. The data is collected from the Copenhagen Prospective Studies on Asthma in Childhood (COPSAC2010) project. 
+This repository presents the code used for the masters thesis project, "Investigating correlations between ADHD symptoms, the Western diet pattern, and the gut microbiome in Danish children: A cross-sectional study with the COPSAC2010 cohort." This thesis was carried out from November 2024 to June 2025 for the completion of the MSc Human Nutrition at the University of Copenhagen. It is a data exploration study investigating correlations between ADHD symptoms, diet patterns, and the gut microbiome composition in 10-year-old Danish children. The data is collected from the Copenhagen Prospective Studies on Asthma in Childhood (COPSAC2010) project. 
 
 # Description of input data
 The code requires multiple input dataframes not publically avaialable. For all dataframes, samples are rows. Further information is available in the R scripts.
